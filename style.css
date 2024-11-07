@@ -1,0 +1,15 @@
+table, th, td{
+    border: 1px solid black;
+}
+
+body{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1200/1*jP6e-dmgTaBf-X0tq-jCCg.jpeg);
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{text-align: center;}
+form{text-align: center;}
